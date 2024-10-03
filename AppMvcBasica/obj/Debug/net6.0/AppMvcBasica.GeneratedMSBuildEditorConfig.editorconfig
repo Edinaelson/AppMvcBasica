@@ -14,12 +14,36 @@ build_property.EnableComHosting =
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\dev\Estudo de MVC core\AppMvcBasica\AppMvcBasica
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Fornecedores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Fornecedores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Fornecedores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Fornecedores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Fornecedores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Fornecedores/_Endereco.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXF9FbmRlcmVjby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Home/Index.cshtml]
@@ -28,6 +52,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Produtos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Produtos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Produtos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Produtos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Produtos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/dev/Estudo de MVC core/AppMvcBasica/AppMvcBasica/Views/Shared/Error.cshtml]
